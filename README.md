@@ -1,4 +1,6 @@
-# 11_challenge_data_collection
+# Scrape data from two websites and store it in Python objects
+
+### 11_challenge_data_collection
 output for challenge 11 : Data collection
 
 
